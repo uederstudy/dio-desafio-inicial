@@ -1,2 +1,2 @@
 # dio-desafio-inicial
-meu primeiro desafio de lógica de programação
+Versão 0.1 do desafio de lógica de programação
